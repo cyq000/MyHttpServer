@@ -1,0 +1,487 @@
+2021-03-29 21:22:34.612225 [erro]: accept error:errno is:11
+2021-03-29 21:22:36.205596 [info]: deal with the client(127.0.0.1)
+2021-03-29 21:22:36.205676 [info]: adjust timer once
+2021-03-29 21:22:36.205699 [info]: GET / HTTP/1.1
+2021-03-29 21:22:36.205780 [info]: Host: 127.0.0.1:8888
+2021-03-29 21:22:36.205794 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:22:36.205800 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:22:36.205805 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-03-29 21:22:36.205809 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-03-29 21:22:36.205813 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:22:36.205817 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:22:36.205821 [info]: Accept-Encoding: gzip, deflate
+2021-03-29 21:22:36.205825 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2021-03-29 21:22:36.205829 [info]: Connection: keep-alive
+2021-03-29 21:22:36.205833 [info]: Upgrade-Insecure-Requests: 1
+2021-03-29 21:22:36.205837 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-03-29 21:22:36.205841 [info]: 
+2021-03-29 21:22:36.205869 [info]: request:HTTP/1.1 200 OK
+
+2021-03-29 21:22:36.205879 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2021-03-29 21:22:36.205883 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+2021-03-29 21:22:36.205887 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+
+2021-03-29 21:22:36.293615 [info]: send data to the client(127.0.0.1)
+2021-03-29 21:22:36.293696 [info]: adjust timer once
+2021-03-29 21:22:38.240434 [info]: timer tick
+2021-03-29 21:22:38.763143 [info]: deal with the client(127.0.0.1)
+2021-03-29 21:22:38.763247 [info]: adjust timer once
+2021-03-29 21:22:38.763269 [info]: POST /0 HTTP/1.1
+2021-03-29 21:22:38.763310 [info]: Host: 127.0.0.1:8888
+2021-03-29 21:22:38.763318 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:22:38.763323 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:22:38.763328 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-03-29 21:22:38.763332 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-03-29 21:22:38.763337 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:22:38.763341 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:22:38.763345 [info]: Accept-Encoding: gzip, deflate
+2021-03-29 21:22:38.763349 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2021-03-29 21:22:38.763353 [info]: Content-Type: application/x-www-form-urlencoded
+2021-03-29 21:22:38.763357 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-03-29 21:22:38.763361 [info]: Content-Length: 0
+2021-03-29 21:22:38.763370 [info]: Origin: http://127.0.0.1:8888
+2021-03-29 21:22:38.763374 [info]: oop!unknow header: Origin: http://127.0.0.1:8888
+2021-03-29 21:22:38.763378 [info]: Connection: keep-alive
+2021-03-29 21:22:38.763382 [info]: Referer: http://127.0.0.1:8888/
+2021-03-29 21:22:38.763386 [info]: oop!unknow header: Referer: http://127.0.0.1:8888/
+2021-03-29 21:22:38.763390 [info]: Upgrade-Insecure-Requests: 1
+2021-03-29 21:22:38.763394 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-03-29 21:22:38.763398 [info]: 
+2021-03-29 21:22:38.763422 [info]: request:HTTP/1.1 200 OK
+
+2021-03-29 21:22:38.763431 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+
+2021-03-29 21:22:38.763435 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+Connection:keep-alive
+
+2021-03-29 21:22:38.763446 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+Connection:keep-alive
+
+
+2021-03-29 21:22:38.764653 [info]: send data to the client(127.0.0.1)
+2021-03-29 21:22:38.764678 [info]: adjust timer once
+2021-03-29 21:22:41.291138 [info]: deal with the client(127.0.0.1)
+2021-03-29 21:22:41.291218 [info]: adjust timer once
+2021-03-29 21:22:41.291244 [info]: POST /1 HTTP/1.1
+2021-03-29 21:22:41.291282 [info]: Host: 127.0.0.1:8888
+2021-03-29 21:22:41.291291 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:22:41.291297 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:22:41.291302 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-03-29 21:22:41.291307 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-03-29 21:22:41.291312 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:22:41.291317 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:22:41.291321 [info]: Accept-Encoding: gzip, deflate
+2021-03-29 21:22:41.291326 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2021-03-29 21:22:41.291330 [info]: Content-Type: application/x-www-form-urlencoded
+2021-03-29 21:22:41.291335 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-03-29 21:22:41.291340 [info]: Content-Length: 0
+2021-03-29 21:22:41.291344 [info]: Origin: http://127.0.0.1:8888
+2021-03-29 21:22:41.291349 [info]: oop!unknow header: Origin: http://127.0.0.1:8888
+2021-03-29 21:22:41.291354 [info]: Connection: keep-alive
+2021-03-29 21:22:41.291358 [info]: Referer: http://127.0.0.1:8888/
+2021-03-29 21:22:41.291363 [info]: oop!unknow header: Referer: http://127.0.0.1:8888/
+2021-03-29 21:22:41.291367 [info]: Upgrade-Insecure-Requests: 1
+2021-03-29 21:22:41.291371 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-03-29 21:22:41.291376 [info]: 
+2021-03-29 21:22:41.291400 [info]: request:HTTP/1.1 200 OK
+
+2021-03-29 21:22:41.291409 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+
+2021-03-29 21:22:41.291414 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+2021-03-29 21:22:41.291419 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+
+2021-03-29 21:22:41.300101 [info]: send data to the client(127.0.0.1)
+2021-03-29 21:22:41.300145 [info]: adjust timer once
+2021-03-29 21:22:43.241524 [info]: timer tick
+2021-03-29 21:22:48.242625 [info]: timer tick
+2021-03-29 21:22:53.242730 [info]: timer tick
+2021-03-29 21:22:53.473251 [info]: deal with the client(127.0.0.1)
+2021-03-29 21:22:53.473300 [info]: adjust timer once
+2021-03-29 21:22:53.473315 [info]: POST /2CGISQL.cgi HTTP/1.1
+2021-03-29 21:22:53.473360 [info]: Host: 127.0.0.1:8888
+2021-03-29 21:22:53.473366 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:22:53.473371 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:22:53.473376 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-03-29 21:22:53.473381 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-03-29 21:22:53.473386 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:22:53.473390 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:22:53.473395 [info]: Accept-Encoding: gzip, deflate
+2021-03-29 21:22:53.473400 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2021-03-29 21:22:53.473404 [info]: Content-Type: application/x-www-form-urlencoded
+2021-03-29 21:22:53.473409 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-03-29 21:22:53.473419 [info]: Content-Length: 24
+2021-03-29 21:22:53.473425 [info]: Origin: http://127.0.0.1:8888
+2021-03-29 21:22:53.473430 [info]: oop!unknow header: Origin: http://127.0.0.1:8888
+2021-03-29 21:22:53.473434 [info]: Connection: keep-alive
+2021-03-29 21:22:53.473439 [info]: Referer: http://127.0.0.1:8888/1
+2021-03-29 21:22:53.473443 [info]: oop!unknow header: Referer: http://127.0.0.1:8888/1
+2021-03-29 21:22:53.473448 [info]: Upgrade-Insecure-Requests: 1
+2021-03-29 21:22:53.473452 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-03-29 21:22:53.473457 [info]: 
+2021-03-29 21:22:53.473461 [info]: user=cyq&password=123456
+2021-03-29 21:22:53.473499 [info]: request:HTTP/1.1 200 OK
+
+2021-03-29 21:22:53.473509 [info]: request:HTTP/1.1 200 OK
+Content-Length:723
+
+2021-03-29 21:22:53.473515 [info]: request:HTTP/1.1 200 OK
+Content-Length:723
+Connection:keep-alive
+
+2021-03-29 21:22:53.473519 [info]: request:HTTP/1.1 200 OK
+Content-Length:723
+Connection:keep-alive
+
+
+2021-03-29 21:22:53.484741 [info]: send data to the client(127.0.0.1)
+2021-03-29 21:22:53.484785 [info]: adjust timer once
+2021-03-29 21:22:57.509763 [info]: deal with the client(127.0.0.1)
+2021-03-29 21:22:57.509839 [info]: adjust timer once
+2021-03-29 21:22:57.509865 [info]: POST /7 HTTP/1.1
+2021-03-29 21:22:57.509892 [info]: Host: 127.0.0.1:8888
+2021-03-29 21:22:57.509900 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:22:57.509906 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:22:57.509958 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-03-29 21:22:57.510005 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-03-29 21:22:57.510013 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:22:57.510018 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:22:57.510022 [info]: Accept-Encoding: gzip, deflate
+2021-03-29 21:22:57.510027 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2021-03-29 21:22:57.510031 [info]: Content-Type: application/x-www-form-urlencoded
+2021-03-29 21:22:57.510036 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-03-29 21:22:57.510041 [info]: Content-Length: 0
+2021-03-29 21:22:57.510046 [info]: Origin: http://127.0.0.1:8888
+2021-03-29 21:22:57.510050 [info]: oop!unknow header: Origin: http://127.0.0.1:8888
+2021-03-29 21:22:57.510055 [info]: Connection: keep-alive
+2021-03-29 21:22:57.510060 [info]: Referer: http://127.0.0.1:8888/2CGISQL.cgi
+2021-03-29 21:22:57.510064 [info]: oop!unknow header: Referer: http://127.0.0.1:8888/2CGISQL.cgi
+2021-03-29 21:22:57.510069 [info]: Upgrade-Insecure-Requests: 1
+2021-03-29 21:22:57.510073 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-03-29 21:22:57.510078 [info]: 
+2021-03-29 21:22:57.510103 [info]: request:HTTP/1.1 200 OK
+
+2021-03-29 21:22:57.510110 [info]: request:HTTP/1.1 200 OK
+Content-Length:392
+
+2021-03-29 21:22:57.510115 [info]: request:HTTP/1.1 200 OK
+Content-Length:392
+Connection:keep-alive
+
+2021-03-29 21:22:57.510120 [info]: request:HTTP/1.1 200 OK
+Content-Length:392
+Connection:keep-alive
+
+
+2021-03-29 21:22:57.599110 [info]: send data to the client(127.0.0.1)
+2021-03-29 21:22:57.599160 [info]: adjust timer once
+2021-03-29 21:22:57.641444 [info]: deal with the client(127.0.0.1)
+2021-03-29 21:22:57.641516 [info]: adjust timer once
+2021-03-29 21:22:57.641539 [info]: GET /test1.jpg HTTP/1.1
+2021-03-29 21:22:57.641561 [info]: Host: 127.0.0.1:8888
+2021-03-29 21:22:57.641567 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:22:57.641572 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:22:57.641584 [info]: Accept: image/webp,*/*
+2021-03-29 21:22:57.641589 [info]: oop!unknow header: Accept: image/webp,*/*
+2021-03-29 21:22:57.641593 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:22:57.641597 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:22:57.641601 [info]: Accept-Encoding: gzip, deflate
+2021-03-29 21:22:57.641606 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2021-03-29 21:22:57.641610 [info]: Connection: keep-alive
+2021-03-29 21:22:57.641614 [info]: Referer: http://127.0.0.1:8888/7
+2021-03-29 21:22:57.641618 [info]: oop!unknow header: Referer: http://127.0.0.1:8888/7
+2021-03-29 21:22:57.641621 [info]: 
+2021-03-29 21:22:57.641643 [info]: request:HTTP/1.1 200 OK
+
+2021-03-29 21:22:57.641648 [info]: request:HTTP/1.1 200 OK
+Content-Length:78443
+
+2021-03-29 21:22:57.641690 [info]: request:HTTP/1.1 200 OK
+Content-Length:78443
+Connection:keep-alive
+
+2021-03-29 21:22:57.641698 [info]: request:HTTP/1.1 200 OK
+Content-Length:78443
+Connection:keep-alive
+
+
+2021-03-29 21:22:57.648260 [info]: send data to the client(127.0.0.1)
+2021-03-29 21:22:57.648340 [info]: adjust timer once
+2021-03-29 21:22:58.243737 [info]: timer tick
+2021-03-29 21:23:00.210811 [info]: deal with the client(127.0.0.1)
+2021-03-29 21:23:00.210891 [info]: adjust timer once
+2021-03-29 21:23:00.210916 [info]: POST /6 HTTP/1.1
+2021-03-29 21:23:00.210940 [info]: Host: 127.0.0.1:8888
+2021-03-29 21:23:00.210947 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:23:00.210953 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:23:00.210958 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-03-29 21:23:00.210963 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-03-29 21:23:00.210968 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:23:00.210973 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:23:00.210977 [info]: Accept-Encoding: gzip, deflate
+2021-03-29 21:23:00.210982 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2021-03-29 21:23:00.210986 [info]: Content-Type: application/x-www-form-urlencoded
+2021-03-29 21:23:00.210991 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-03-29 21:23:00.210996 [info]: Content-Length: 0
+2021-03-29 21:23:00.211001 [info]: Origin: http://127.0.0.1:8888
+2021-03-29 21:23:00.211005 [info]: oop!unknow header: Origin: http://127.0.0.1:8888
+2021-03-29 21:23:00.211010 [info]: Connection: keep-alive
+2021-03-29 21:23:00.211014 [info]: Referer: http://127.0.0.1:8888/2CGISQL.cgi
+2021-03-29 21:23:00.211019 [info]: oop!unknow header: Referer: http://127.0.0.1:8888/2CGISQL.cgi
+2021-03-29 21:23:00.211023 [info]: Upgrade-Insecure-Requests: 1
+2021-03-29 21:23:00.211028 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-03-29 21:23:00.211032 [info]: 
+2021-03-29 21:23:00.211057 [info]: request:HTTP/1.1 200 OK
+
+2021-03-29 21:23:00.211064 [info]: request:HTTP/1.1 200 OK
+Content-Length:381
+
+2021-03-29 21:23:00.211069 [info]: request:HTTP/1.1 200 OK
+Content-Length:381
+Connection:keep-alive
+
+2021-03-29 21:23:00.211073 [info]: request:HTTP/1.1 200 OK
+Content-Length:381
+Connection:keep-alive
+
+
+2021-03-29 21:23:00.307197 [info]: send data to the client(127.0.0.1)
+2021-03-29 21:23:00.307283 [info]: adjust timer once
+2021-03-29 21:23:00.751337 [info]: deal with the client(127.0.0.1)
+2021-03-29 21:23:00.751380 [info]: adjust timer once
+2021-03-29 21:23:00.751393 [info]: GET /xxx.mp4 HTTP/1.1
+2021-03-29 21:23:00.751401 [info]: Host: 127.0.0.1:8888
+2021-03-29 21:23:00.751405 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:23:00.751410 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:23:00.751422 [info]: Accept: video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5
+2021-03-29 21:23:00.751427 [info]: oop!unknow header: Accept: video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5
+2021-03-29 21:23:00.751431 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:23:00.751435 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:23:00.751439 [info]: Range: bytes=0-
+2021-03-29 21:23:00.751443 [info]: oop!unknow header: Range: bytes=0-
+2021-03-29 21:23:00.751447 [info]: Connection: keep-alive
+2021-03-29 21:23:00.751451 [info]: Referer: http://127.0.0.1:8888/6
+2021-03-29 21:23:00.751455 [info]: oop!unknow header: Referer: http://127.0.0.1:8888/6
+2021-03-29 21:23:00.751459 [info]: 
+2021-03-29 21:23:00.751479 [info]: request:HTTP/1.1 200 OK
+
+2021-03-29 21:23:00.751485 [info]: request:HTTP/1.1 200 OK
+Content-Length:39667571
+
+2021-03-29 21:23:00.751489 [info]: request:HTTP/1.1 200 OK
+Content-Length:39667571
+Connection:keep-alive
+
+2021-03-29 21:23:00.751493 [info]: request:HTTP/1.1 200 OK
+Content-Length:39667571
+Connection:keep-alive
+
+
+2021-03-29 21:23:00.893905 [info]: send data to the client(127.0.0.1)
+2021-03-29 21:23:00.893953 [info]: adjust timer once
+2021-03-29 21:23:01.154137 [info]: close fd 16
+2021-03-29 21:23:04.291786 [erro]: accept error:errno is:11
+2021-03-29 21:23:04.291933 [info]: deal with the client(127.0.0.1)
+2021-03-29 21:23:04.291991 [info]: adjust timer once
+2021-03-29 21:23:04.292042 [info]: POST /5 HTTP/1.1
+2021-03-29 21:23:04.292069 [info]: Host: 127.0.0.1:8888
+2021-03-29 21:23:04.292075 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:23:04.292081 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:23:04.292085 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-03-29 21:23:04.292089 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-03-29 21:23:04.292094 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:23:04.292098 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:23:04.292102 [info]: Accept-Encoding: gzip, deflate
+2021-03-29 21:23:04.292106 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2021-03-29 21:23:04.292110 [info]: Content-Type: application/x-www-form-urlencoded
+2021-03-29 21:23:04.292114 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-03-29 21:23:04.292133 [info]: Content-Length: 0
+2021-03-29 21:23:04.292138 [info]: Origin: http://127.0.0.1:8888
+2021-03-29 21:23:04.292155 [info]: oop!unknow header: Origin: http://127.0.0.1:8888
+2021-03-29 21:23:04.292159 [info]: Connection: keep-alive
+2021-03-29 21:23:04.292163 [info]: Referer: http://127.0.0.1:8888/2CGISQL.cgi
+2021-03-29 21:23:04.292167 [info]: oop!unknow header: Referer: http://127.0.0.1:8888/2CGISQL.cgi
+2021-03-29 21:23:04.292171 [info]: Upgrade-Insecure-Requests: 1
+2021-03-29 21:23:04.292175 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-03-29 21:23:04.292179 [info]: 
+2021-03-29 21:23:04.292651 [info]: request:HTTP/1.1 200 OK
+
+2021-03-29 21:23:04.292700 [info]: request:HTTP/1.1 200 OK
+Content-Length:360
+
+2021-03-29 21:23:04.292710 [info]: request:HTTP/1.1 200 OK
+Content-Length:360
+Connection:keep-alive
+
+2021-03-29 21:23:04.292715 [info]: request:HTTP/1.1 200 OK
+Content-Length:360
+Connection:keep-alive
+
+
+2021-03-29 21:23:04.302692 [info]: send data to the client(127.0.0.1)
+2021-03-29 21:23:04.302777 [info]: adjust timer once
+2021-03-29 21:23:04.359788 [info]: deal with the client(127.0.0.1)
+2021-03-29 21:23:04.359871 [info]: adjust timer once
+2021-03-29 21:23:04.359895 [info]: GET /xxx.jpg HTTP/1.1
+2021-03-29 21:23:04.359918 [info]: Host: 127.0.0.1:8888
+2021-03-29 21:23:04.359925 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:23:04.359930 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:23:04.359935 [info]: Accept: image/webp,*/*
+2021-03-29 21:23:04.359939 [info]: oop!unknow header: Accept: image/webp,*/*
+2021-03-29 21:23:04.359944 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:23:04.359948 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:23:04.359952 [info]: Accept-Encoding: gzip, deflate
+2021-03-29 21:23:04.359956 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2021-03-29 21:23:04.359960 [info]: Connection: keep-alive
+2021-03-29 21:23:04.359964 [info]: Referer: http://127.0.0.1:8888/5
+2021-03-29 21:23:04.359968 [info]: oop!unknow header: Referer: http://127.0.0.1:8888/5
+2021-03-29 21:23:04.359972 [info]: 
+2021-03-29 21:23:04.359992 [info]: request:HTTP/1.1 200 OK
+
+2021-03-29 21:23:04.359998 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+
+2021-03-29 21:23:04.360002 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+Connection:keep-alive
+
+2021-03-29 21:23:04.360006 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+Connection:keep-alive
+
+
+2021-03-29 21:23:04.611121 [info]: send data to the client(127.0.0.1)
+2021-03-29 21:23:04.611200 [info]: adjust timer once
+2021-03-29 21:23:07.434547 [info]: deal with the client(127.0.0.1)
+2021-03-29 21:23:07.434636 [info]: adjust timer once
+2021-03-29 21:23:07.434662 [info]: POST /6 HTTP/1.1
+2021-03-29 21:23:07.434691 [info]: Host: 127.0.0.1:8888
+2021-03-29 21:23:07.434698 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:23:07.434740 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:23:07.434751 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-03-29 21:23:07.434757 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-03-29 21:23:07.434762 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:23:07.434767 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:23:07.434772 [info]: Accept-Encoding: gzip, deflate
+2021-03-29 21:23:07.434777 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2021-03-29 21:23:07.434782 [info]: Content-Type: application/x-www-form-urlencoded
+2021-03-29 21:23:07.434786 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-03-29 21:23:07.434791 [info]: Content-Length: 0
+2021-03-29 21:23:07.434797 [info]: Origin: http://127.0.0.1:8888
+2021-03-29 21:23:07.434802 [info]: oop!unknow header: Origin: http://127.0.0.1:8888
+2021-03-29 21:23:07.434807 [info]: Connection: keep-alive
+2021-03-29 21:23:07.434811 [info]: Referer: http://127.0.0.1:8888/2CGISQL.cgi
+2021-03-29 21:23:07.434816 [info]: oop!unknow header: Referer: http://127.0.0.1:8888/2CGISQL.cgi
+2021-03-29 21:23:07.434821 [info]: Upgrade-Insecure-Requests: 1
+2021-03-29 21:23:07.434826 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-03-29 21:23:07.434830 [info]: 
+2021-03-29 21:23:07.434855 [info]: request:HTTP/1.1 200 OK
+
+2021-03-29 21:23:07.434862 [info]: request:HTTP/1.1 200 OK
+Content-Length:381
+
+2021-03-29 21:23:07.434867 [info]: request:HTTP/1.1 200 OK
+Content-Length:381
+Connection:keep-alive
+
+2021-03-29 21:23:07.434872 [info]: request:HTTP/1.1 200 OK
+Content-Length:381
+Connection:keep-alive
+
+
+2021-03-29 21:23:07.435005 [info]: send data to the client(127.0.0.1)
+2021-03-29 21:23:07.435022 [info]: adjust timer once
+2021-03-29 21:23:08.244357 [info]: timer tick
+2021-03-29 21:23:13.244753 [info]: timer tick
+2021-03-29 21:23:17.596754 [info]: deal with the client(127.0.0.1)
+2021-03-29 21:23:17.596801 [info]: POST /5 HTTP/1.1
+2021-03-29 21:23:17.596811 [info]: Host: 127.0.0.1:8888
+2021-03-29 21:23:17.596817 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:23:17.596823 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:23:17.596828 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-03-29 21:23:17.596833 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-03-29 21:23:17.596838 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:23:17.596842 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:23:17.596847 [info]: Accept-Encoding: gzip, deflate
+2021-03-29 21:23:17.596852 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2021-03-29 21:23:17.596856 [info]: Content-Type: application/x-www-form-urlencoded
+2021-03-29 21:23:17.596861 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2021-03-29 21:23:17.596866 [info]: Content-Length: 0
+2021-03-29 21:23:17.596871 [info]: Origin: http://127.0.0.1:8888
+2021-03-29 21:23:17.596876 [info]: oop!unknow header: Origin: http://127.0.0.1:8888
+2021-03-29 21:23:17.596880 [info]: Connection: keep-alive
+2021-03-29 21:23:17.596885 [info]: Referer: http://127.0.0.1:8888/2CGISQL.cgi
+2021-03-29 21:23:17.596890 [info]: oop!unknow header: Referer: http://127.0.0.1:8888/2CGISQL.cgi
+2021-03-29 21:23:17.596894 [info]: Upgrade-Insecure-Requests: 1
+2021-03-29 21:23:17.596899 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-03-29 21:23:17.596903 [info]: 
+2021-03-29 21:23:17.596926 [info]: request:HTTP/1.1 200 OK
+
+2021-03-29 21:23:17.596933 [info]: request:HTTP/1.1 200 OK
+Content-Length:360
+
+2021-03-29 21:23:17.596939 [info]: request:HTTP/1.1 200 OK
+Content-Length:360
+Connection:keep-alive
+
+2021-03-29 21:23:17.596943 [info]: request:HTTP/1.1 200 OK
+Content-Length:360
+Connection:keep-alive
+
+
+2021-03-29 21:23:17.596958 [info]: adjust timer once
+2021-03-29 21:23:17.597039 [info]: send data to the client(127.0.0.1)
+2021-03-29 21:23:17.597052 [info]: adjust timer once
+2021-03-29 21:23:17.634930 [info]: deal with the client(127.0.0.1)
+2021-03-29 21:23:17.635002 [info]: adjust timer once
+2021-03-29 21:23:17.635025 [info]: GET /xxx.jpg HTTP/1.1
+2021-03-29 21:23:17.635047 [info]: Host: 127.0.0.1:8888
+2021-03-29 21:23:17.635054 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:23:17.635060 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0
+2021-03-29 21:23:17.635065 [info]: Accept: image/webp,*/*
+2021-03-29 21:23:17.635069 [info]: oop!unknow header: Accept: image/webp,*/*
+2021-03-29 21:23:17.635074 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:23:17.635078 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2021-03-29 21:23:17.635082 [info]: Accept-Encoding: gzip, deflate
+2021-03-29 21:23:17.635086 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2021-03-29 21:23:17.635090 [info]: Connection: keep-alive
+2021-03-29 21:23:17.635129 [info]: Referer: http://127.0.0.1:8888/5
+2021-03-29 21:23:17.635140 [info]: oop!unknow header: Referer: http://127.0.0.1:8888/5
+2021-03-29 21:23:17.635145 [info]: 
+2021-03-29 21:23:17.635163 [info]: request:HTTP/1.1 200 OK
+
+2021-03-29 21:23:17.635168 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+
+2021-03-29 21:23:17.635173 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+Connection:keep-alive
+
+2021-03-29 21:23:17.635177 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+Connection:keep-alive
+
+
+2021-03-29 21:23:17.637336 [info]: send data to the client(127.0.0.1)
+2021-03-29 21:23:17.637367 [info]: adjust timer once
+2021-03-29 21:23:17.640636 [info]: send data to the client(127.0.0.1)
+2021-03-29 21:23:17.640668 [info]: adjust timer once
+2021-03-29 21:23:18.244992 [info]: timer tick
+2021-03-29 21:23:21.053122 [info]: close fd 16
